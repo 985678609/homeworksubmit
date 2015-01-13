@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
-  name="submit"
+  name="homeworksubmit"
   id="myeclipse.1402125896724"
-  context-root="/submit"
+  context-root="/homeworksubmit"
   j2ee-spec="6.0"
-  archive="submit.war">
+  archive="homeworksubmit.war">
   <attributes>
-    <attribute name="webrootdir" value="WebRoot" />
+    <attribute name="webrootdir" value="/WebRoot" />
   </attributes>
 </project-module>
 
